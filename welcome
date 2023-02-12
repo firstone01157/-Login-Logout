@@ -54,10 +54,10 @@
     </div>
     <script>
       function linkweb(){
-        window.open("https://sites.google.com/view/database-first");
+        window.open("//กรุณาใส่ลิงค์ที่ต้องการจะไป");
       }
       function Logout(){
-        window.open("https://script.google.com/macros/s/AKfycbwDXZohqMR-8_-CRpDSos4mYZkspZEw1gJSZmScyqa3/dev");
+        window.open("//กรุณาใส่หน้าล็อกอิน");
       }
     </script>
   </body>
